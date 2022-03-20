@@ -1,6 +1,5 @@
 const { add } = require('../utils/math_testing');
 
-add = jest.fn();
 
 describe('Math operation', () => {
 

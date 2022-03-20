@@ -1,5 +1,6 @@
 const { div } = require('../utils/math_testing');
 
+
 describe('Math operation', () => {
 
     test('of division', () => {
@@ -9,4 +10,5 @@ describe('Math operation', () => {
     test('divide between zero', () => {
         expect(div(2, 0)).toBe(0);
     })
+
 });
