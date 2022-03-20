@@ -17,7 +17,7 @@ describe('Math operation sum', () => {
     });
 });
 
-describe('Math operation sum', () => {
+describe('Math operation sub', () => {
 
     test.todo("subtract")
 
@@ -27,7 +27,7 @@ describe('Math operation sum', () => {
     });
 });
 
-describe('Math operation sum', () => {
+describe('Math operation mult', () => {
 
     test.todo("multiply")
 
@@ -37,7 +37,7 @@ describe('Math operation sum', () => {
     });
 });
 
-describe('Math operation sum', () => {
+describe('Math operation div', () => {
 
     test.todo("divide")
 
